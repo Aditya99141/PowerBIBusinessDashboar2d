@@ -101,6 +101,4 @@ This Power BI project demonstrates how a well-designed dashboard can transform r
 
 ---
 
-## 🏷️ Keywords
 
-Power BI, Dashboard, Sales Analysis, Retail Data, Data Visualization, Business Intelligence, KPIs, YoY Analysis, Customer Segments, Shipping Modes, Geographic Analysis
