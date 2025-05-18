@@ -1,5 +1,4 @@
-# 🏬 Store Sales Dashboard – Power BI Project (Historical Trend Analysis)
-
+# 🏬 Store Sales Dashboard – Power BI Project
 ## 📌 Project Overview
 
 This Power BI project aims to contribute to the success of a fictional retail store by leveraging **data analysis techniques**, with a special focus on understanding **historical performance trends**. The dashboard provides insights into sales, profit, delivery times, and regional performance — helping decision-makers monitor operations and strategize effectively.
